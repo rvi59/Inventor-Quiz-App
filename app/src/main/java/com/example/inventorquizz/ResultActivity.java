@@ -12,9 +12,6 @@ public class ResultActivity extends AppCompatActivity {
     Button btPlayAgain,btPlayScreen;
     TextView txtTotalQuesion,txtCoins,txtWrongQues,txtCorrectQues;
 
-
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

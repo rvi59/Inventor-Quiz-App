@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CSharp Quiz</string>
+    <string name="app_name">Inventors Quiz</string>
     <string name="title_activity_result">ResultActivity</string>
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
